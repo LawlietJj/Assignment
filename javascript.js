@@ -422,7 +422,7 @@ window.addEventListener( 'resize', function(){
 
 // happyAnimation();
 
-let countdown = 10; // 1 minute in seconds
+let countdown = 60; // 1 minute in seconds
 
     const timerElement = document.getElementById("timer");
 
@@ -437,7 +437,7 @@ let countdown = 10; // 1 minute in seconds
         bdc.style.display = "none";
         timerElement.style.display = "none";
         happyAnimation();
-        // playSound();
+        playSound();
     
 
       }
