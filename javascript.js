@@ -12,7 +12,7 @@ function playSound() {
     audio.play();
 }
 
-
+  
 function happyAnimation () {
 
     var w = c.width = window.innerWidth,
