@@ -169,6 +169,7 @@ body {
     
     .name {
       position: absolute;
+      font-family: "Brush Script MT", cursive;
       left: 150px;
       top: 280px;
       color: #333;
