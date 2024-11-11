@@ -439,7 +439,7 @@ let countdown = 60; // 1 minute in seconds
         happyAnimation();
         playSound();
     
-
+		btn.style.display = "none";
       }
     }, 1000);
 
